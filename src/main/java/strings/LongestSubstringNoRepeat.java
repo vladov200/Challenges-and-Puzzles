@@ -2,6 +2,13 @@ package main.java.strings;
 
 import java.util.HashSet;
 
+/**
+ * Given a string s, find the length of the longest 
+ * substring without repeating characters.
+ * 
+ * https://leetcode.com/problems/longest-substring-without-repeating-characters/
+ * 
+ */
 public class LongestSubstringNoRepeat {
 
 	/**
